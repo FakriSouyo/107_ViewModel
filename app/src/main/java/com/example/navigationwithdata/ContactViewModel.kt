@@ -1,7 +1,6 @@
 package com.example.navigationwithdata
 
 import androidx.lifecycle.ViewModel
-import com.example.navigationwithdata.data.ContactUiState
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.asStateFlow
