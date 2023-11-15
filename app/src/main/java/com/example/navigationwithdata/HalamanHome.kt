@@ -65,7 +65,7 @@ fun HalamanHome (
                         .align(Alignment.CenterHorizontally)
                 )
                 Text(
-                    text = "Gembrunggung",
+                    text = "Mantap",
                     color = Color.DarkGray,
                     fontFamily = FontFamily.Cursive,
                     fontSize = 60.sp,
