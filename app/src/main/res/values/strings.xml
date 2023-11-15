@@ -1,8 +1,18 @@
 <resources>
     <string name="app_name">Navigation with Data</string>
-    <string name="Nama">Nama</string>
-    <string name="Alamat">Alamat</string>
-    <string name="Nohp">NoHp</string>
-    <string name="btn_submit">Submit</string>
-    <string name="btn_back">Back</string>
+    <string name="back_button">Kembali</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="next">Lanjut</string>
+    <string name="cancel">Batal</string>
+    <string name="vanila">Vanila</string>
+    <string name="lemon">Lemon</string>
+    <string name="natural">Natural</string>
+    <string name="milk">Milk</string>
+    <string name="lyche">Lychee</string>
+    <string name="oder_summary">Ringkasan Order</string>
+    <string name="send">Send order to Another App</string>
+    <string name="quantity">Jumlah</string>
+    <string name="flavor">Rasa</string>
+    <string name="subtotal_price">Subtotal: Rp.%s</string>
+    <string name="total_price">Total %s</string>
 </resources>
