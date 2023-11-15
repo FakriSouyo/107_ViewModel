@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Navigation with Data</string>
+    <string name="Nama">Nama</string>
+    <string name="Alamat">Alamat</string>
+    <string name="Nohp">NoHp</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_back">Back</string>
+</resources>
