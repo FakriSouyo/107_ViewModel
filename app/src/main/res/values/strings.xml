@@ -1,17 +1,9 @@
 <resources>
-    <string name="app_name">NavigationBarActivity</string>
-    <string name="back_button">Kembali</string>
-    <string name="confirm">Konfirmasi</string>
-    <string name="next">Lanjut</string>
-    <string name="cancel">Batal</string>
-    <string name="Vanila">Vanila</string>
-    <string name="original">original</string>
-    <string name="Lemon">Lemon</string>
-    <string name="Apel">Apel</string>
-    <string name="order_summary">Ringkasan Order</string>
-    <string name="send">Send Order to Another App</string>
-    <string name="quantity">Jumlah</string>
-    <string name="flavor">Rasa</string>
-    <string name="subtotal_price">Subtotal : RP %s</string>
-    <string name="total_price">Total %s</string>
+    <string name="app_name">Praktikum 5</string>
+    <string name="laki">Laki-laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="register">Register</string>
+    <string name="status">Status</string>
+    <string name="menikah">Menikah</string>
+    <string name="belummenikah">Belum Menikah</string>
 </resources>
